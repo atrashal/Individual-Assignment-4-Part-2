@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/amandaatrash/.android/build-cache/c992c21cb3f7c4623055fba89d61bd044ef4b6e3/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/1b70d1322e986fea416c7f2a94084c68a29b4dd8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/2e29a080695f6b65f5105c2d3f1d8ce05c6df7ca/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/d96da99927f37ac8321f07fae3008250b53d48b7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/46b693d237d1013e4f078f00695b72a7d25308d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/b6c08c9bff1167aa9adef349536da9c79b462ed4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/78d04773d3e4cf779d64263c5a5f84cb4120d493/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/7ef2cda0d9c28f2e2c67d577a9235e2b91c590a4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/04e0f2a6ad0b6f735bd554f919a82dd14ba63935/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/dc6918383f1e721f1217ee555e5fc0243bebd11e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:11:9-40
+activity#atrashal.individualassignment4_2.MainActivity
+ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/amandaatrash/.android/build-cache/c992c21cb3f7c4623055fba89d61bd044ef4b6e3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/1b70d1322e986fea416c7f2a94084c68a29b4dd8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/2e29a080695f6b65f5105c2d3f1d8ce05c6df7ca/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/f49dc2b6d40989c18e39315671e4bec6df9459c3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/d96da99927f37ac8321f07fae3008250b53d48b7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/46b693d237d1013e4f078f00695b72a7d25308d9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/b6c08c9bff1167aa9adef349536da9c79b462ed4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/78d04773d3e4cf779d64263c5a5f84cb4120d493/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/7ef2cda0d9c28f2e2c67d577a9235e2b91c590a4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/04e0f2a6ad0b6f735bd554f919a82dd14ba63935/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/dc6918383f1e721f1217ee555e5fc0243bebd11e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/1b70d1322e986fea416c7f2a94084c68a29b4dd8/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/2e29a080695f6b65f5105c2d3f1d8ce05c6df7ca/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/f49dc2b6d40989c18e39315671e4bec6df9459c3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/d96da99927f37ac8321f07fae3008250b53d48b7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/46b693d237d1013e4f078f00695b72a7d25308d9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/b6c08c9bff1167aa9adef349536da9c79b462ed4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/78d04773d3e4cf779d64263c5a5f84cb4120d493/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/7ef2cda0d9c28f2e2c67d577a9235e2b91c590a4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/04e0f2a6ad0b6f735bd554f919a82dd14ba63935/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/dc6918383f1e721f1217ee555e5fc0243bebd11e/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/AndroidManifest.xml:26:9-47

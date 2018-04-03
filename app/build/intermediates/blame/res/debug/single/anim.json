@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/73e6ee67b4af1cf258fe195a487960179a09ff8d/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/amandaatrash/AndroidStudioProjects/IndividualAssignment4-2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/amandaatrash/.android/build-cache/a201c8d7b62c210b933ba6eb56e65ce17b0d05c1/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
